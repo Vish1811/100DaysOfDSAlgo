@@ -3,4 +3,4 @@
 
 
 
-Day1  :  ARRAYS
+Day1  :  ARRAYS,STRING,Stack,BinarySearch,Sorting using STL.

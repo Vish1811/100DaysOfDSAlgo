@@ -1,0 +1,16 @@
+Basic Foundation:
+
+1.Asymptotic analyasis
+1.Arrays
+Strings
+Stack and Queue
+Basic Math operations
+Euclid's gcd algorithm
+Prime number,divisibility of numbers
+Basic Recursion
+Greedy algorithms
+Basic DP
+Naive String Searching
+Sorting(merge,quick,counting sort)
+Binary Search
+
